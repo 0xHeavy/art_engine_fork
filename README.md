@@ -1,4 +1,4 @@
-# HashLips - Art Engine Fork �
+# Art Engine Fork (Hashlips)
 
 All the code in these repos were created by HashLips and forked by 0xHeavy. 
 

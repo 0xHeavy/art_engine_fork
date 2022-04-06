@@ -1,6 +1,4 @@
-# HashLips Art Engine Fork 👄
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
+# HashLips - Art Engine Fork �
 
 All the code in these repos were created by HashLips and forked by 0xHeavy. 
 

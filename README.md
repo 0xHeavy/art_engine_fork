@@ -3,13 +3,9 @@
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
 All the code in these repos were created by HashLips and forked by 0xHeavy. 
-To find out more please visit:
 
-[ℹ️ Website](https://hashlips.online/HashLips)
 
-# HashLips Art Engine 🔥
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
+# Art Engine Fork🔥
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
 
@@ -18,7 +14,7 @@ Create generative art by using the canvas api and node js. Before you use the ge
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/HashLips/hashlips_art_engine.git
+git clone https://github.com/0xHeavy/art_engine_fork.git
 ```
 
 Go to the root of your folder and run this command if you have yarn installed.

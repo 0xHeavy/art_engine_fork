@@ -1,18 +1,9 @@
-# Welcome to HashLips 👄
+# HashLips Art Engine Fork 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
-
+All the code in these repos were created by HashLips and forked by 0xHeavy. 
 To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
-
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
 
 [ℹ️ Website](https://hashlips.online/HashLips)
 
